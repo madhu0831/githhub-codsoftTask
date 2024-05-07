@@ -16,6 +16,5 @@ public class GuessNum{
 		else
 			System.out.println("You Guess Wrong Number . The Number was "+randomNum);
 		
-		
 	}
 }
